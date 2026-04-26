@@ -130,6 +130,6 @@ Same five models are retrained with regularization on SMOTE-balanced data and re
 
 ## Authors
 
-BE-CSE, Batch 2022 — 8th Semester (Zeta Cluster)  
+BE-CSE, Batch 2022 — 8th Semester 
 Chitkara University Institute of Engineering & Technology  
 Course: COOP-2 (22CS421)
