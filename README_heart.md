@@ -1,4 +1,6 @@
-# Heart Disease Prediction using Machine Learning
+Name -Tamanna Kansal 
+Roll No- 2210992436
+# Comparative Analysis of Machine Learning Algorithms for Heart Disease Prediction 
 
 ## Project Overview
 
